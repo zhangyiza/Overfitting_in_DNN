@@ -12,5 +12,5 @@ Please install MATLAB deeplearning toolbox and download MNIST data.
 - Net is trained with a greedy algorithm with trains net layer by layer(hinton,2006)
 
 ## Reference
-[1] Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554.  
-[2]	LeCun, Y., Cortes, C., & Burges, C. J. (1998). The MNIST database of handwritten digits
+[1] *Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554.*  
+[2]	*LeCun, Y., Cortes, C., & Burges, C. J. (1998). The MNIST database of handwritten digits*
